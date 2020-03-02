@@ -1,5 +1,8 @@
 package letto.offer;
 
+import com.sun.source.tree.Tree;
+
+import javax.swing.table.TableRowSorter;
 import java.lang.ref.PhantomReference;
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -14,7 +17,6 @@ public class Q22_PrintFromTopToBottom {
         int val = 0;
         TreeNode left = null;
         TreeNode right = null;
-
         public TreeNode(int val) {
             this.val = val;
         }
@@ -28,7 +30,7 @@ public class Q22_PrintFromTopToBottom {
 
     }
     public static ArrayList<Integer> PrintFromTopToBottom(TreeNode root) {
-        Queue<TreeNode> queue = new LinkedList();
+        Queue<TreeNode> queue = new LinkedList<TreeNode>();
         ArrayList<Integer> list = new ArrayList<>();
         if (root==null) return list;
         //先打印当前节点，然后把左右节点依次进入队列，队列弹出作为新的当前节点。

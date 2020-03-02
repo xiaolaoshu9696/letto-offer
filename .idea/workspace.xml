@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8c5b623-124b-42f0-bf39-b8b0cd65f0f2" name="Default Changelist" comment="" />
+    <list default="true" id="d8c5b623-124b-42f0-bf39-b8b0cd65f0f2" name="Default Changelist" comment="3月20 21：56">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q20_StackContainMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q21_IsPopOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q22_PrintFromTopToBottom$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q22_PrintFromTopToBottom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q23_VerifySquenceOfBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q23_VerifySquenceOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q24_FindPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q19_printMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q19_printMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/letto/offer/Q22_PrintFromTopToBottom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Q22_PrintFromTopToBottom.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="offer-java" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,49 +30,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YND4THEhAHf0Wem6hrT45viiWv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BookManager" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Q19_printMatrix">
+  <component name="RunManager" selected="Application.Q23_VerifySquenceOfBST">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="my.offer.Main" />
-      <module name="offer-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="my.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q01_Find (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my.offer.Q01_Find" />
-      <module name="offer-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="my.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q02_replaceSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my.offer.Q02_replaceSpace" />
       <module name="offer-java" />
       <extension name="coverage">
         <pattern>
@@ -94,20 +93,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q22_PrintFromTopToBottom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="letto.offer.Q22_PrintFromTopToBottom" />
+      <module name="offer-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="letto.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q23_VerifySquenceOfBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="letto.offer.Q23_VerifySquenceOfBST" />
+      <module name="offer-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="letto.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Q01_Find (1)" />
-      <item itemvalue="Application.Q02_replaceSpace" />
       <item itemvalue="Application.Q03_printListFromTailToHead" />
       <item itemvalue="Application.Q19_printMatrix" />
+      <item itemvalue="Application.Q22_PrintFromTopToBottom" />
+      <item itemvalue="Application.Q23_VerifySquenceOfBST" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q23_VerifySquenceOfBST" />
+        <item itemvalue="Application.Q22_PrintFromTopToBottom" />
         <item itemvalue="Application.Q19_printMatrix" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Q03_printListFromTailToHead" />
-        <item itemvalue="Application.Q02_replaceSpace" />
-        <item itemvalue="Application.Q01_Find (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -126,33 +151,55 @@
       <workItem from="1582888746253" duration="5830000" />
       <workItem from="1582946360305" duration="17382000" />
       <workItem from="1583054571637" duration="5608000" />
+      <workItem from="1583119401552" duration="4132000" />
+      <workItem from="1583140849806" duration="11689000" />
     </task>
+    <task id="LOCAL-00001" summary="添加了一些注释">
+      <created>1583121312310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583121312311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加了一些注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了一些注释" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="108" key="FileChooserDialogImpl" timestamp="1582811817042">
+    <state x="275" y="26" key="#Notifications" timestamp="1583121008861">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="458" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582811817042" />
-    <state width="1323" height="112" key="GridCell.Tab.0.bottom" timestamp="1583069881392">
+    <state x="275" y="26" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1583121008861" />
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1583157404119">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="112" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583069881392" />
-    <state width="1323" height="112" key="GridCell.Tab.0.center" timestamp="1583069881392">
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583157404119" />
+    <state x="458" y="108" key="FileChooserDialogImpl" timestamp="1583139869778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="112" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583069881392" />
-    <state width="1323" height="112" key="GridCell.Tab.0.left" timestamp="1583069881392">
+    <state x="458" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583139869778" />
+    <state width="1286" height="192" key="GridCell.Tab.0.bottom" timestamp="1583147223040">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="112" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583069881392" />
-    <state width="1323" height="112" key="GridCell.Tab.0.right" timestamp="1583069881392">
+    <state width="1286" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583147223040" />
+    <state width="1286" height="192" key="GridCell.Tab.0.center" timestamp="1583147223040">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="112" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583069881392" />
+    <state width="1286" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583147223040" />
+    <state width="1286" height="192" key="GridCell.Tab.0.left" timestamp="1583147223040">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583147223040" />
+    <state width="1286" height="192" key="GridCell.Tab.0.right" timestamp="1583147223040">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583147223040" />
     <state width="1323" height="112" key="GridCell.Tab.1.bottom" timestamp="1583069881393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -177,10 +224,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1366.728@0.0.1366.728" timestamp="1582774011769" />
-    <state x="375" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1583054576169">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1583121339285">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583054576169" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583121339285" />
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1583119403184">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583119403184" />
+    <state x="57" y="0" key="new project wizard" timestamp="1583137168872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583137168872" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1582982637454">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
