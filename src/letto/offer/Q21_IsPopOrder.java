@@ -13,6 +13,7 @@ public class Q21_IsPopOrder {
     public boolean IsPopOrder(int [] pushA,int [] popA) {
         if( pushA.length == 0 && popA.length == 0 ) return true;
         Stack<Integer> stack  = new Stack<Integer>();
+        //模拟此过程
         for (int i = 0, j = 0; i<pushA.length; i++){
             stack.push(pushA[i]);
             while ((!stack.isEmpty())&& stack.peek()==popA[j]){
