@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8c5b623-124b-42f0-bf39-b8b0cd65f0f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q25_Clone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q26_Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q27_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q28_MoreThanHalfNum_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q29_GetLeastNumbers_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q30_FindGreatestSumOfSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q31_NumberOf1Between1AndN_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q32_PrintMinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q33_GetUglyNumber_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q34_FirstNotRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q35_InversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/sort/Bubble_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/sort/Insert_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/sort/Select_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/sort/Shell_sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,22 +55,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Q23_VerifySquenceOfBST">
+  <component name="RunManager" selected="Application.Shell_sort">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="my.offer.Main" />
-      <module name="offer-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="my.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q03_printListFromTailToHead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my.offer.Q03_printListFromTailToHead" />
       <module name="offer-java" />
       <extension name="coverage">
         <pattern>
@@ -110,20 +108,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Shell_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="letto.offer.sort.Shell_sort" />
+      <module name="offer-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="letto.offer.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Q03_printListFromTailToHead" />
       <item itemvalue="Application.Q19_printMatrix" />
       <item itemvalue="Application.Q22_PrintFromTopToBottom" />
       <item itemvalue="Application.Q23_VerifySquenceOfBST" />
+      <item itemvalue="Application.Shell_sort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shell_sort" />
         <item itemvalue="Application.Q23_VerifySquenceOfBST" />
         <item itemvalue="Application.Q22_PrintFromTopToBottom" />
         <item itemvalue="Application.Q19_printMatrix" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Q03_printListFromTailToHead" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +156,14 @@
       <workItem from="1583119401552" duration="4132000" />
       <workItem from="1583140849806" duration="11792000" />
       <workItem from="1583244795260" duration="2489000" />
-      <workItem from="1583293674220" duration="7652000" />
+      <workItem from="1583293674220" duration="7792000" />
+      <workItem from="1583381401088" duration="279000" />
+      <workItem from="1583384867774" duration="3857000" />
+      <workItem from="1583394286398" duration="3474000" />
+      <workItem from="1583410519159" duration="14000" />
+      <workItem from="1583411688523" duration="2330000" />
+      <workItem from="1583493719383" duration="2327000" />
+      <workItem from="1583564182337" duration="14915000" />
     </task>
     <task id="LOCAL-00001" summary="添加了一些注释">
       <created>1583121312310</created>
@@ -161,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583158996558</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2019.3.4 16：20">
+      <created>1583309991827</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583309991827</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,37 +195,42 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加了一些注释" />
     <MESSAGE value="2019.3.20 22：22" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.3.20 22：22" />
+    <MESSAGE value="2019.3.4 16：20" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.3.4 16：20" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="26" key="#Notifications" timestamp="1583121008861">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="26" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1583121008861" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1583158995431">
+    <state x="467" y="254" width="431" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583497457307">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583158995431" />
+    <state x="467" y="254" width="431" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1583497457307" />
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1583591309087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583591309087" />
     <state x="458" y="108" key="FileChooserDialogImpl" timestamp="1583139869778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="458" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583139869778" />
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1583159047341">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1583591138300">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583159047341" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1583159047341">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583591138300" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1583591138300">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583159047341" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1583159047341">
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583591138300" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1583591138299">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583159047341" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1583159047341">
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583591138299" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1583591138300">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583159047341" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583591138300" />
     <state width="1323" height="112" key="GridCell.Tab.1.bottom" timestamp="1583069881393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -225,14 +255,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1366.728@0.0.1366.728" timestamp="1582774011769" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1583159004477">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1583591323170">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583159004477" />
-    <state x="375" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1583119403184">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583591323170" />
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1583564209184">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583119403184" />
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583564209184" />
     <state x="57" y="0" key="new project wizard" timestamp="1583137168872">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
