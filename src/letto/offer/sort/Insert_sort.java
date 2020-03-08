@@ -2,6 +2,8 @@ package letto.offer.sort;
 
 import org.w3c.dom.CDATASection;
 
+import java.util.Arrays;
+
 /**
  *
  * 插入排序
@@ -10,6 +12,12 @@ import org.w3c.dom.CDATASection;
  */
 
 public class Insert_sort {
+
+    public static void main(String[] args) {
+        int[] nums = {2,11,4,5,78,33,33,45,67};
+        InsertSort(nums);
+        System.out.println(Arrays.toString(nums));
+    }
 
     private static void InsertSort(int[] nums){
         for (int i = 1; i<nums.length; i++){
