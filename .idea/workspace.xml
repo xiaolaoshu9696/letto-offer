@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8c5b623-124b-42f0-bf39-b8b0cd65f0f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/sort/Heap_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/sort/Merge_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/sort/Quick_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/sort/Radix_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q36_FindFirstCommonNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q37_GetNumberOfK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q38_TreeDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q39_IsBalanced_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q40_FindNumsAppearOnce.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Bubble_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Bubble_sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Insert_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Insert_sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Select_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Select_sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Shell_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Shell_sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q35_InversePairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q35_InversePairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/letto/offer/Q35_InversePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Q35_InversePairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,20 +53,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Radix_sort">
-    <configuration name="Bubble_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="letto.offer.sort.Bubble_sort" />
-      <module name="offer-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="letto.offer.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q35_InversePairs">
     <configuration name="Heap_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="letto.offer.sort.Heap_sort" />
       <module name="offer-java" />
@@ -90,6 +73,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="letto.offer.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q35_InversePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="letto.offer.Q35_InversePairs" />
+      <module name="offer-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="letto.offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,19 +120,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Bubble_sort" />
       <item itemvalue="Application.Merge_sort" />
       <item itemvalue="Application.Quick_sort" />
       <item itemvalue="Application.Heap_sort" />
       <item itemvalue="Application.Radix_sort" />
+      <item itemvalue="Application.Q35_InversePairs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q35_InversePairs" />
         <item itemvalue="Application.Radix_sort" />
         <item itemvalue="Application.Heap_sort" />
         <item itemvalue="Application.Quick_sort" />
         <item itemvalue="Application.Merge_sort" />
-        <item itemvalue="Application.Bubble_sort" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +162,8 @@
       <workItem from="1583411688523" duration="2330000" />
       <workItem from="1583493719383" duration="2327000" />
       <workItem from="1583564182337" duration="15100000" />
-      <workItem from="1583632673969" duration="13528000" />
+      <workItem from="1583632673969" duration="23208000" />
+      <workItem from="1583739502361" duration="12029000" />
     </task>
     <task id="LOCAL-00001" summary="添加了一些注释">
       <created>1583121312310</created>
@@ -203,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583634647384</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2020.3.8 添加八种排序算法实现">
+      <created>1583660010252</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583660010252</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +219,8 @@
     <MESSAGE value="2019.3.4 16：20" />
     <MESSAGE value="2020.3.7 22：28" />
     <MESSAGE value="2020.3.8 添加测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.3.8 添加测试" />
+    <MESSAGE value="2020.3.8 添加八种排序算法实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.3.8 添加八种排序算法实现" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="26" key="#Notifications" timestamp="1583121008861">
@@ -226,30 +231,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="467" y="254" width="431" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1583497457307" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1583634646184">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1583660008685">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583634646184" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583660008685" />
     <state x="458" y="108" key="FileChooserDialogImpl" timestamp="1583139869778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="458" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583139869778" />
-    <state width="1323" height="14" key="GridCell.Tab.0.bottom" timestamp="1583659926711">
+    <state width="1323" height="45" key="GridCell.Tab.0.bottom" timestamp="1583679768058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="14" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583659926711" />
-    <state width="1323" height="14" key="GridCell.Tab.0.center" timestamp="1583659926711">
+    <state width="1323" height="45" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583679768058" />
+    <state width="1323" height="45" key="GridCell.Tab.0.center" timestamp="1583679768057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="14" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583659926711" />
-    <state width="1323" height="14" key="GridCell.Tab.0.left" timestamp="1583659926710">
+    <state width="1323" height="45" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583679768057" />
+    <state width="1323" height="45" key="GridCell.Tab.0.left" timestamp="1583679768057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="14" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583659926710" />
-    <state width="1323" height="14" key="GridCell.Tab.0.right" timestamp="1583659926711">
+    <state width="1323" height="45" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583679768057" />
+    <state width="1323" height="45" key="GridCell.Tab.0.right" timestamp="1583679768058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="14" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583659926711" />
+    <state width="1323" height="45" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583679768058" />
     <state width="1323" height="112" key="GridCell.Tab.1.bottom" timestamp="1583069881393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -274,14 +279,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1366.728@0.0.1366.728" timestamp="1582774011769" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1583591362228">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1583660017626">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583591362228" />
-    <state x="375" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1583633723667">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583660017626" />
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1583739641569">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583633723667" />
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583739641569" />
     <state x="381" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583655926107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -298,9 +303,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="306" y="266" key="save.project.as.template.dialog/0.0.1366.728@0.0.1366.728" timestamp="1582891872545" />
-    <state x="433" y="191" width="672" height="678" key="search.everywhere.popup" timestamp="1583639806339">
+    <state x="433" y="191" width="672" height="678" key="search.everywhere.popup" timestamp="1583764780655">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="433" y="191" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583639806339" />
+    <state x="433" y="191" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583764780655" />
   </component>
 </project>
