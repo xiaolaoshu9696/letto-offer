@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8c5b623-124b-42f0-bf39-b8b0cd65f0f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q41_FindContinuousSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q42_FindNumbersWithSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q43_LeftRotateString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q44_ReverseSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q45_isContinuous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q46_LastRemaining_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q47_Sum_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q48_Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q49_StrToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q50_duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/Q51_multiply.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q35_InversePairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q35_InversePairs.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +163,11 @@
       <workItem from="1583564182337" duration="15100000" />
       <workItem from="1583632673969" duration="23208000" />
       <workItem from="1583739502361" duration="12589000" />
-      <workItem from="1583840174667" duration="8186000" />
+      <workItem from="1583840174667" duration="8888000" />
+      <workItem from="1583899938399" duration="677000" />
+      <workItem from="1583923282974" duration="236000" />
+      <workItem from="1583932842902" duration="4683000" />
+      <workItem from="1583989038730" duration="5741000" />
     </task>
     <task id="LOCAL-00001" summary="添加了一些注释">
       <created>1583121312310</created>
@@ -214,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583765098465</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2020.3.10 22:16">
+      <created>1583849822711</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1583849822712</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +239,8 @@
     <MESSAGE value="2020.3.8 添加测试" />
     <MESSAGE value="2020.3.8 添加八种排序算法实现" />
     <MESSAGE value="2020.3.9 22:44" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.3.9 22:44" />
+    <MESSAGE value="2020.3.10 22:16" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.3.10 22:16" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="26" key="#Notifications" timestamp="1583121008861">
@@ -239,30 +251,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="467" y="254" width="431" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1583497457307" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1583765096846">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1583849821149">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583765096846" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583849821149" />
     <state x="458" y="108" key="FileChooserDialogImpl" timestamp="1583139869778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="458" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583139869778" />
-    <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1583845990942">
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1583853865491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583845990942" />
-    <state width="1323" height="136" key="GridCell.Tab.0.center" timestamp="1583845990941">
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583853865491" />
+    <state width="1323" height="136" key="GridCell.Tab.0.center" timestamp="1583853865491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583845990941" />
-    <state width="1323" height="136" key="GridCell.Tab.0.left" timestamp="1583845990941">
+    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583853865491" />
+    <state width="1323" height="136" key="GridCell.Tab.0.left" timestamp="1583853865490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583845990941" />
-    <state width="1323" height="136" key="GridCell.Tab.0.right" timestamp="1583845990942">
+    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583853865490" />
+    <state width="1323" height="136" key="GridCell.Tab.0.right" timestamp="1583853865491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583845990942" />
+    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583853865491" />
     <state width="1323" height="112" key="GridCell.Tab.1.bottom" timestamp="1583069881393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -287,14 +299,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1366.728@0.0.1366.728" timestamp="1582774011769" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1583765105928">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1583849829640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583765105928" />
-    <state x="375" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1583840186173">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583849829640" />
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1583994319268">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583840186173" />
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583994319268" />
     <state x="381" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583655926107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
