@@ -3,10 +3,8 @@ package letto.offer;
 public class Main {
 
     public static void main(String[] args) {
-        int count = 0;
-        for (int i=0; i<100; i++){
-            count = count++;
-        }
-        System.out.println(count);
+
+        System.out.println("德莉莎世界第一可爱！");
+
     }
 }
