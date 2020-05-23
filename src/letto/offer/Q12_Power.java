@@ -9,7 +9,7 @@ public class Q12_Power {
         }
         else if (n<0){
             if (base==0)
-                throw  new RuntimeException("分母不能为0");
+                throw  new RuntimeException("底数不能为0");
             exponent = -n;
         }
         else return 1; //n=0时

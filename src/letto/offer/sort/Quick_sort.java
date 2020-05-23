@@ -35,4 +35,27 @@ public class Quick_sort {
         if (start<j)  QuickSort(nums,start,j);
         if (end>i)  QuickSort(nums, i, end);
     }
+
+    //容易理解的写法
+    private static void QuickSort_2(int[] nums, int start, int end) {
+        if (start>end) return;
+        int base = nums[start];
+        int temp;
+        int i = start, j = end;
+        while (i!=j){
+            //顺序很重要，先从右边开始找
+            while(nums[j]>=base && i<j) j--;
+            while(nums[i]<=base && i<j) i++;
+            if (i<j){
+                temp = nums[i];
+                nums[i] = nums[j];
+                nums[j] = temp;
+            }
+        }
+        //基准数归位
+        nums[start] = nums[i];
+        nums[i] = base;
+        QuickSort_2(nums, start, i-1);
+        QuickSort_2(nums, i+1, end);
+    }
 }

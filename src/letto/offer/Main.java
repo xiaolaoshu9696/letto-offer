@@ -1,10 +1,12 @@
 package letto.offer;
 
-public class Main {
 
-    public static void main(String[] args) {
+import java.util.*;
 
-        System.out.println("德莉莎世界第一可爱！");
-
+public class Main{
+    public static void main(String[] args){
+        String a ="";
+        a = "ab";
+        System.out.println(a);
     }
 }

@@ -1,25 +1,35 @@
 package letto.offer.Tencent;
 
 import java.util.LinkedList;
+import java.util.Scanner;
 import java.util.Stack;
 
 /**
  *
  * 压缩算法
- *
+ *小Q想要给他的朋友发送一个神秘字符串，但是他发现字符串的过于长了，
+ * 于是小Q发明了一种压缩算法对字符串中重复的部分进行了压缩，
+ * 对于字符串中连续的m个相同字符串S将会压缩为[m|S](m为一个整数且1<=m<=100)，
+ * 例如字符串ABCABCABC将会被压缩为[3|ABC]，现在小Q的同学收到了小Q发送过来的字符串，你能帮助他进行解压缩么？
+ * HG[3|B[2|CA]]F−>HG[3|BCACA]F−>HGBCACABCACABCACAF
  */
 
 public class Q1_compression {
     private static int num = 0;
 
-
     public static void main(String[] args) {
-        String str = "AC[3|B[2|CA]D]FG";
-        String temp = Decoder(str,0);
-        System.out.println(temp);
-        temp = Decoder(str);
-        System.out.println(temp);
+        Scanner in = new Scanner(System.in);
+        String str = in.nextLine();
+        Decoder(str);
     }
+
+//    public static void main(String[] args) {
+//        String str = "AC[3|B[2|CA]D]FG";
+//        String temp = Decoder(str,0);
+//        System.out.println(temp);
+//        temp = Decoder(str);
+//        System.out.println(temp);
+//    }
     // 栈的解法
     public static String Decoder(String str){
         int mutil =  0; //乘数
