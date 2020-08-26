@@ -20,7 +20,7 @@ public class Q1_compression {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String str = in.nextLine();
-        Decoder(str);
+        System.out.println(Decoder(str));
     }
 
 //    public static void main(String[] args) {

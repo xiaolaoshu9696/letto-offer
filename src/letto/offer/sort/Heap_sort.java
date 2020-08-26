@@ -12,7 +12,7 @@ import java.util.Arrays;
 public class Heap_sort {
 
     public static void main(String[] args) {
-        int[] nums = {4,11,2,5,78,33,33,45,67};
+        int[] nums = {4,11,2,5,78,33,33,45,99};
         HeapSort(nums);
         System.out.println(Arrays.toString(nums));
     }

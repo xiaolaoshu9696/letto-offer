@@ -9,16 +9,20 @@ package letto.offer;
 
 public class Q67_cutRope {
     public static void main(String[] args) {
-        System.out.println(cutRope(8));
+        System.out.println(cutRope(12));
     }
 
     public static int cutRope(int target) {
         if (target==2) return 1;
         if (target==3) return 2;
-        int n = 1;
-        while (target /n!=2) n++;
-        int gap = target - n*2;
-        return (int)(Math.pow(2, n-gap)*Math.pow(3, gap));
+        if(target%3==0){
+            return (int)Math.pow(3,target/3);
+        }else if(target%3==1){
+            return 4*(int)Math.pow(3,target/3-1);
+        }else {
+            return 2*(int)Math.pow(3,target/3);
+        }
+
     }
 
 }

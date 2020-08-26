@@ -16,7 +16,7 @@ public class Q63_GetMedian {
 
     public void Insert(Integer num) {
         list.add(num);
-        list.sort(Comparator.comparingInt(Integer::intValue));
+        list.sort((o1, o2) -> o1-o2);
     }
 
     public Double GetMedian() {

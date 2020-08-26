@@ -1,6 +1,5 @@
 package letto.offer;
 
-import com.sun.source.tree.Tree;
 
 import javax.swing.table.TableRowSorter;
 import java.lang.ref.PhantomReference;

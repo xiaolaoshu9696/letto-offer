@@ -5,6 +5,7 @@ package letto.offer;
  * 返回结果为复制后复杂链表的head。（注意，输出结果中请不要返回参数中的节点引用，否则判题程序会直接返回空）
  *
  */
+
 public class Q25_Clone {
     public class RandomListNode {
         int label;
@@ -30,6 +31,7 @@ public class Q25_Clone {
             clone_node.next = tmp;
             c_node = tmp;
         }
+
 
         // 再次遍历链表 复制老节点的随机指针给新节点
         c_node = pHead;

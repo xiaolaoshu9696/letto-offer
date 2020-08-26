@@ -36,7 +36,9 @@ public class Q3_rucksack {
 
     public static int ZeroOnePack2(int V,int N,int[] weight,int[] value){
         int[] dp =  new int[V+1];
+        //每件物品
         for (int i = 1; i <N+1; i++){
+            //逆序更新，装下这个物品是否提升价值
             for (int j = V; j>=weight[i-1]; j--){
                 dp[j] = Math.max(dp[j-weight[i-1]]+value[i-1],dp[j]);
             }

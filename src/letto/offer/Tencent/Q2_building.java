@@ -1,7 +1,5 @@
 package letto.offer.Tencent;
 
-import com.sun.jdi.IncompatibleThreadStateException;
-
 import java.util.Scanner;
 import java.util.Stack;
 

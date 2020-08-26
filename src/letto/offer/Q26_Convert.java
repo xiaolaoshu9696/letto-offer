@@ -19,6 +19,7 @@ public class Q26_Convert {
     //中序遍历可以得到有序序列
     private TreeNode pre = null; //记录上一个节点
     private TreeNode head = null; //头节点
+
     public TreeNode Convert(TreeNode pRootOfTree) {
         if (pRootOfTree == null) return null;
 

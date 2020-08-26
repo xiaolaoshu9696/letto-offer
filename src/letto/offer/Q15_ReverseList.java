@@ -1,9 +1,8 @@
 package letto.offer;
 
-import java.awt.desktop.AppReopenedListener;
 import java.util.List;
 
-public class Q15_ReverseList {
+public class  Q15_ReverseList {
 
     public static class ListNode{
         int val;

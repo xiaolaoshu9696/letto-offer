@@ -1,6 +1,6 @@
 package letto.offer.sort;
 
-import javax.naming.PartialResultException;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
