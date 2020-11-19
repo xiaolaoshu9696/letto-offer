@@ -126,6 +126,9 @@ public class Quick_sort {
         int temp = a[i];
         a[i] = a[j];
         a[j] = temp;
+        String d = "abc";
+        String b = "ddd";
+        d.equals(b);
     }
 
 }

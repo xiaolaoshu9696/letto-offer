@@ -1,38 +1,46 @@
 package letto.offer;
 
-
 import java.util.*;
 
+
 public class Main {
-    public List<List<Integer>> palindromePairs(String[] words) {
-        List<List<Integer>> res = new ArrayList<>();
-        int len = words.length;
-        for(int i = 0; i<len-1; i++){
-            for(int j = i+1; j<len; j++){
-                if(ishuiwen(words[i],words[j])){
-                    List<Integer> list = new ArrayList();
-                    list.add(i);
-                    list.add(j);
-                    res.add(list);
-                    List<Integer> list2 = new ArrayList();
-                    list.add(j);
-                    list.add(i);
-                    res.add(list2);
+
+
+    public static void main(String[] args) {
+
+    }
+
+    public ArrayList<ArrayList<Integer>> threeSum(int[] num) {
+        ArrayList<ArrayList<Integer>> res = new ArrayList<>();
+        int len = num.length;
+        if(num==null || len<3) return res;
+        Arrays.sort(num);
+        for(int i = 0; i<len; i++){
+            if(num[i]>0) break;
+            if(i>0 && num[i]==num[i-1]) continue;
+            int L = i+1;
+            int R = len-1;
+            while(L<R){
+                int sum = num[i]+num[L]+num[R];
+                if(sum==0){
+                    ArrayList<Integer> p = new ArrayList<>();
+                    p.add(num[i]);
+                    p.add(num[L]);
+                    p.add(num[R]);
+                    res.add(p);
+                    while(L<R && num[L]==num[L+1]) L++;
+                    while (L<R && num[R] == num[R-1]) R--; // 去重
+                    L++;
+                    R--;
 
                 }
+                else if(sum<0) L++;
+                else if(sum>0) R--;
             }
+
         }
 
         return res;
-
     }
 
-    public boolean ishuiwen(String s1, String s2){
-        String s = s1+s2;
-        int l = s.length();
-        for(int i = 0; i<l/2; i++){
-            if(s.charAt(i)!=s.charAt(l-1-i)) return false;
-        }
-        return true;
-    }
 }

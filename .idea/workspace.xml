@@ -1,278 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/letto/offer/mianshizhinan/TreeSum_LongPath.java" line="37" mnemonic="1" />
-    <bookmark url="file://$PROJECT_DIR$/src/letto/offer/newcoder/kgroupReverseList.java" line="20" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="d8c5b623-124b-42f0-bf39-b8b0cd65f0f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/duoxiancheng/FairAndUnfairTest$Job.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/duoxiancheng/FairAndUnfairTest$ReentrantLock2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/duoxiancheng/FairAndUnfairTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/duoxiancheng/SleepUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/duoxiancheng/TwinsLock$Sync.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/duoxiancheng/TwinsLock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/duoxiancheng/TwinsLockTest$1Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/duoxiancheng/TwinsLockTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/duoxiancheng/jubuzuixiao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/leetcode/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/leetcode/leetcode1431.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/leetcode/leetcode394.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/leetcode/leetcode84.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/TreeSum_LongPath$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/TreeSum_LongPath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/apprenK$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/apprenK.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/dp/SumOfNumToChar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/dp/longyudixiacheng.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/kuohao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/mapitem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/maxBST$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/maxBST$ReturnType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/maxBST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/maxHappy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/maxWindowNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/maxsubString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/minLenOfMat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/minSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/sumOfK.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/mianshizhinan/xinleixing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/tree/AVLDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/tree/AVLNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/tree/AVLTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/tree/avl$AVLNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/tree/avl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/vivo2020chunzhao/Q1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/vivo2020chunzhao/Q2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/vivo2020chunzhao/Q3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/JavaIO/testFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/JavaIO/testStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/Test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/dp/ZERO_ONE_pack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/duoxiancheng/FairAndUnfairTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/duoxiancheng/TwinsLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/duoxiancheng/TwinsLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/duoxiancheng/jubuzuixiao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/duoxiancheng/print0To100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/duoxiancheng/print0to100use5thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/duoxiancheng/printabc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/duoxiancheng/printabcusecondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/duoxiancheng/几种多线程的示例/TestSemphore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/dfs/leetcode329.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/jisuanqi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode130.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode179.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode336_hard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode337.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode347.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode416.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode459.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode696.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/二分/leetcode35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai201/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai201/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai201/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode1079.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode491.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode784.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/字节常见题/数组与排序/leetcode15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/滑动窗口/leetcode76.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/滑动窗口/newcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/贪心/leetcode621.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/mianshizhinan/TreeSum_LongPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/mianshizhinan/apprenK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/mianshizhinan/dp/SumOfNumToChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/mianshizhinan/dp/longyudixiacheng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/mianshizhinan/kuohao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/mianshizhinan/maxBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/mianshizhinan/maxHappy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/mianshizhinan/maxWindowNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/mianshizhinan/maxsubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/mianshizhinan/minLenOfMat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/mianshizhinan/minSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/mianshizhinan/sumOfK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/mianshizhinan/xinleixing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/newcoder/aiqiyi/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/newcoder/aiqiyi/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/newcoder/kgroupReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/newcoder/longpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/newcoder/magicnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/newcoder/小马智行/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/newcoder/小马智行/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/pingduoduo/Q1_2018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/pingduoduo/Q1_2019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/pingduoduo/Q2_2019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/pingduoduo/Q3_2019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/pingduoduo/Q4_2019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/pingduoduo/xiaozhao2018/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/pingduoduo/xiaozhao2018/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/socket网络基础/ScoketServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/socket网络基础/SocketClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/tree/AVLDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/tree/avl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/tree/遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/vivo2020chunzhao/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/vivo2020chunzhao/Q1_fuwubushu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/vivo2020chunzhao/Q1_yunkuangshi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/vivo2020chunzhao/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/vivo2020chunzhao/Q2_baoshu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/vivo2020chunzhao/Q2_yiweixiaoxiaole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/vivo2020chunzhao/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/vivo2020chunzhao/Q3_chailiwu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/wangyi/xiaozhao20183/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/动态代理/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/动态代理权限控制/ExecutionServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/动态代理权限控制/ServiceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/华为/Q1_汽水瓶.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/华为/Q2_明明的随机数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/华为/Q3_进制转换.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/字节跳动/Q1_用户喜好.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letto/offer/字节跳动/Q2_手串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testIO.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/dp/多少种方法达到一个值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode150.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode214.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/双指针/leetcode86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai204/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai204/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai204/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai205/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai205/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai205/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai205/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode216.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/leetcode/字节常见题/字符串/sw20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/newcoder/addInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letto/offer/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offer-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/offer-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/META-INF/offer-java.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/META-INF/offer-java.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q01_Find.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q01_Find.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q02_replaceSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q02_replaceSpace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q03_printListFromTailToHead$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q03_printListFromTailToHead$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q03_printListFromTailToHead.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q03_printListFromTailToHead.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q04_reConstructBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q04_reConstructBinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q04_reConstructBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q04_reConstructBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q05_StackToLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q05_StackToLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q06_minNumberInRotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q06_minNumberInRotateArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q07_Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q07_Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q08_JumpFloor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q08_JumpFloor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q09_JumpFloorII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q09_JumpFloorII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q10_RectCover.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q10_RectCover.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q11_NumberOf1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q11_NumberOf1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q12_Power.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q12_Power.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q13_reOrderArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q13_reOrderArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q14_FindKthToTail$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q14_FindKthToTail$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q14_FindKthToTail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q14_FindKthToTail.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q15_ReverseList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q15_ReverseList$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q15_ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q15_ReverseList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q16_Merge$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q16_Merge$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q16_Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q16_Merge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q17_HasSubtree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q17_HasSubtree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q17_HasSubtree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q17_HasSubtree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q18_Mirror$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q18_Mirror$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q18_Mirror.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q18_Mirror.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q19_printMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q19_printMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q20_StackContainMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q20_StackContainMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q21_IsPopOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q21_IsPopOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q22_PrintFromTopToBottom$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q22_PrintFromTopToBottom$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q22_PrintFromTopToBottom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q22_PrintFromTopToBottom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q23_VerifySquenceOfBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q23_VerifySquenceOfBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q24_FindPath$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q24_FindPath$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q24_FindPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q24_FindPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q25_Clone$RandomListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q25_Clone$RandomListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q25_Clone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q25_Clone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q26_Convert$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q26_Convert$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q26_Convert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q26_Convert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q27_Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q27_Permutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q28_MoreThanHalfNum_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q28_MoreThanHalfNum_Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q29_GetLeastNumbers_Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q29_GetLeastNumbers_Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q29_GetLeastNumbers_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q29_GetLeastNumbers_Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q30_FindGreatestSumOfSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q30_FindGreatestSumOfSubArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q31_NumberOf1Between1AndN_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q31_NumberOf1Between1AndN_Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q32_PrintMinNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q32_PrintMinNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q33_GetUglyNumber_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q33_GetUglyNumber_Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q34_FirstNotRepeatingChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q34_FirstNotRepeatingChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q35_InversePairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q35_InversePairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q36_FindFirstCommonNode$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q36_FindFirstCommonNode$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q36_FindFirstCommonNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q36_FindFirstCommonNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q37_GetNumberOfK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q37_GetNumberOfK.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q38_TreeDepth$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q38_TreeDepth$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q38_TreeDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q38_TreeDepth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q39_IsBalanced_Solution$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q39_IsBalanced_Solution$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q39_IsBalanced_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q39_IsBalanced_Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q40_FindNumsAppearOnce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q40_FindNumsAppearOnce.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q41_FindContinuousSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q41_FindContinuousSequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q42_FindNumbersWithSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q42_FindNumbersWithSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q43_LeftRotateString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q43_LeftRotateString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q44_ReverseSentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q44_ReverseSentence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q45_isContinuous.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q45_isContinuous.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q46_LastRemaining_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q46_LastRemaining_Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q47_Sum_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q47_Sum_Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q48_Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q48_Add.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q49_StrToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q49_StrToInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q50_duplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q50_duplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q51_multiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q51_multiply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q52_match.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q52_match.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q53_isNumeric.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q53_isNumeric.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q54_FirstAppearingOnce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q54_FirstAppearingOnce.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q55_EntryNodeOfLoop$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q55_EntryNodeOfLoop$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q55_EntryNodeOfLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q55_EntryNodeOfLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q56_deleteDuplication$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q56_deleteDuplication$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q56_deleteDuplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q56_deleteDuplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q57_GetNext$TreeLinkNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q57_GetNext$TreeLinkNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q57_GetNext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q57_GetNext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q58_isSymmetrical$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q58_isSymmetrical$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q58_isSymmetrical.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q58_isSymmetrical.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q59_Print$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q59_Print$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q59_Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q59_Print.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q60_Print$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q60_Print$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q60_Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q60_Print.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q61_serialize$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q61_serialize$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q61_serialize.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q61_serialize.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q62_KthNode$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q62_KthNode$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q62_KthNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q62_KthNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q63_GetMedian.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q63_GetMedian.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q64_maxInWindows.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q64_maxInWindows.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q65_hasPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q65_hasPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q66_movingCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q66_movingCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q67_cutRope.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Q67_cutRope.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q1_2017_encode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q1_2017_encode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q1_compression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q1_compression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q2_2017_encode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q2_2017_encode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q2_building.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q2_building.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q3_2017_TwinPrimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q3_2017_TwinPrimes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q3_ReverseAlignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q3_ReverseAlignment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q4_vacation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q4_vacation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q5_Vision.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/Tencent/Q5_Vision.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/dp/Q1_maxPresent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/dp/Q1_maxPresent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/dp/Q2_selectPresent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/dp/Q2_selectPresent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/dp/Q3_rucksack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/dp/Q3_rucksack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/leetcode/leetcode05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/leetcode/leetcode05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/newcoder/MatrixOverlap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/newcoder/MatrixOverlap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/newcoder/alarmClock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/newcoder/alarmClock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/newcoder/division3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/newcoder/division3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/newcoder/findwork.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/newcoder/findwork.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/pingduoduo/Q1_2020.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/pingduoduo/Q1_2020.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/pingduoduo/Q2_2020.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/pingduoduo/Q2_2020.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/pingduoduo/Q3_2020.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/pingduoduo/Q3_2020.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/pingduoduo/Q4_2020.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/pingduoduo/Q4_2020.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/pingduoduo/Q5_2020.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/pingduoduo/Q5_2020.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Bubble_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Bubble_sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Heap_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Heap_sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Insert_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Insert_sort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Merge_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Merge_sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Quick_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Quick_sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Radix_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Radix_sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Select_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Select_sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Shell_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer-java/letto/offer/sort/Shell_sort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/letto/offer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/Q15_ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Q15_ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/Q17_HasSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Q17_HasSubtree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/Q22_PrintFromTopToBottom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Q22_PrintFromTopToBottom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/Q25_Clone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Q25_Clone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/Q26_Convert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Q26_Convert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/Q29_GetLeastNumbers_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Q29_GetLeastNumbers_Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/Q55_EntryNodeOfLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Q55_EntryNodeOfLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/Q63_GetMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Q63_GetMedian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/Q67_cutRope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Q67_cutRope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/Tencent/Q1_compression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Tencent/Q1_compression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/Tencent/Q2_building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Tencent/Q2_building.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/dp/Q3_rucksack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/dp/Q3_rucksack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/pingduoduo/Q5_2020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/pingduoduo/Q5_2020.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/sort/Heap_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/sort/Heap_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/letto/offer/Q19_printMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/Q19_printMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/letto/offer/sort/Merge_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/sort/Merge_sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/letto/offer/sort/Quick_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/sort/Quick_sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/letto/offer/sort/Radix_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letto/offer/sort/Radix_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testIO.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -293,95 +45,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/letto/offer/sort/Merge_sort.java">
+        <entry file="file://$PROJECT_DIR$/src/letto/offer/Q31_NumberOf1Between1AndN_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+            <state relative-caret-position="234">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/jisuanqi.java">
+        <entry file="file://$PROJECT_DIR$/src/letto/offer/Q32_PrintMinNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="37" column="10" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="10" />
+            <state relative-caret-position="260">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/letto/offer/JavaIO/testFile.java">
+        <entry file="file://$PROJECT_DIR$/src/letto/offer/Q33_GetUglyNumber_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+            <state relative-caret-position="234">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/letto/offer/JavaIO/testStream.java">
+        <entry file="file://$PROJECT_DIR$/src/letto/offer/Q36_FindFirstCommonNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-156">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="260">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode17.java">
+        <entry file="file://$PROJECT_DIR$/src/letto/offer/Q38_TreeDepth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" selection-start-line="4" selection-end-line="39" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/letto/offer/duoxiancheng/几种多线程的示例/TestSemphore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-130">
-              <caret line="1" lean-forward="true" selection-start-column="13" selection-end-line="1" />
+            <state relative-caret-position="234">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/letto/offer/duoxiancheng/jubuzuixiao.java">
+        <entry file="file://$PROJECT_DIR$/src/letto/offer/Q40_FindNumsAppearOnce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode491.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode90.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/Integer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="830" selection-start-line="830" selection-end-line="830" />
+            <state relative-caret-position="390">
+              <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
               <folding>
-                <element signature="e#33891#33892#0" expanded="true" />
-                <element signature="e#33919#33920#0" expanded="true" />
+                <element signature="e#338#347#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/letto/offer/Q39_IsBalanced_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/letto/offer/Q37_GetNumberOfK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/letto/offer/Q34_FirstNotRepeatingChar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/letto/offer/Q35_InversePairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -409,29 +160,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/字节常见题/字符串/字符串运算/addStrings.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/字节常见题/数组与排序/leetcode15.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/二分/leetcode35.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/Q18_Mirror.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/Q26_Convert.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/dfs/leetcode329.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/newcoder/小马智行/Q2.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/newcoder/小马智行/Q1.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/duoxiancheng/print0To100.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/pingduoduo/Q3_2019.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/pingduoduo/Q4_2019.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/pingduoduo/Q2_2019.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/pingduoduo/Q1_2019.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/pingduoduo/Q1_2018.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/pingduoduo/xiaozhao2018/Q.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/pingduoduo/xiaozhao2018/Q1.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/pingduoduo/xiaozhao2018/Q2.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/Test.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/Test/Test.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/wangyi/xiaozhao20183/Q1.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/duoxiancheng/几种多线程的示例/TestSemphore.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode337.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/Main.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode336_hard.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/leetcode/滑动窗口/newcode.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/dp/ZERO_ONE_pack.java" />
@@ -442,7 +175,6 @@
         <option value="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode130.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/JavaIO.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/JavaIO/testFile.java" />
-        <option value="$PROJECT_DIR$/testIO.txt" />
         <option value="$PROJECT_DIR$/src/letto/offer/JavaIO/testStream.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode416.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/leetcode/滑动窗口/leetcode76.java" />
@@ -453,13 +185,32 @@
         <option value="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode347.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/newcoder/aiqiyi/Q1.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/newcoder/aiqiyi/Q2.java" />
-        <option value="$PROJECT_DIR$/src/letto/offer/sort/Quick_sort.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode459.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode179.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode491.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode90.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/leetcode/jisuanqi.java" />
         <option value="$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode17.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/双指针/leetcode86.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/dp/多少种方法达到一个值.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode214.java" />
+        <option value="$PROJECT_DIR$/testIO.txt" />
+        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/leetcode150.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai204/Q1.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai204/Q2.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai204/Q3.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/字节常见题/字符串/sw20.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/newcoder/addInList.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/Q19_printMatrix.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai205/Q1.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai205/Q2.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai205/Q3.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai205/Q4.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/sort/Merge_sort.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/Main.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode216.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/sort/Quick_sort.java" />
+        <option value="$PROJECT_DIR$/src/letto/offer/test.java" />
       </list>
     </option>
   </component>
@@ -471,10 +222,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1544" />
-    <option name="y" value="-24" />
-    <option name="width" value="1425" />
-    <option name="height" value="711" />
+    <option name="x" value="199" />
+    <option name="y" value="50" />
+    <option name="width" value="1588" />
+    <option name="height" value="915" />
   </component>
   <component name="ProjectId" id="1YND4THEhAHf0Wem6hrT45viiWv" />
   <component name="ProjectLevelVcsManager">
@@ -485,8 +236,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -512,21 +263,6 @@
               <item name="offer" type="462c0819:PsiDirectoryNode" />
               <item name="duoxiancheng" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="letto-offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="letto-offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="duoxiancheng" type="462c0819:PsiDirectoryNode" />
-              <item name="几种多线程的示例" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="letto-offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="letto-offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -547,7 +283,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exam" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My-RPC-Framwork/My-RPCFramwork" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -571,13 +307,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.leetcode17">
-    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="letto.offer.newcoder.aiqiyi.Q2" />
+  <component name="RunManager" selected="Application.leetcode216">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="letto.offer.Main" />
       <module name="offer-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="letto.offer.newcoder.aiqiyi.*" />
+          <option name="PATTERN" value="letto.offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -585,12 +321,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jisuanqi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="letto.offer.leetcode.jisuanqi" />
+    <configuration name="Merge_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="letto.offer.sort.Merge_sort" />
       <module name="offer-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="letto.offer.leetcode.*" />
+          <option name="PATTERN" value="letto.offer.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -598,12 +334,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="letto.offer.leetcode.回溯.leetcode17" />
+    <configuration name="Q2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="letto.offer.leetcode.周赛.zhousai205.Q2" />
       <module name="offer-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="letto.offer.leetcode.回溯.*" />
+          <option name="PATTERN" value="letto.offer.leetcode.周赛.zhousai205.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -611,12 +347,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode491" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="letto.offer.leetcode.回溯.leetcode491" />
+    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="letto.offer.leetcode.周赛.zhousai205.Q3" />
       <module name="offer-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="letto.offer.leetcode.回溯.*" />
+          <option name="PATTERN" value="letto.offer.leetcode.周赛.zhousai205.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -624,8 +360,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="letto.offer.leetcode.回溯.leetcode90" />
+    <configuration name="leetcode216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="letto.offer.leetcode.回溯.leetcode216" />
       <module name="offer-java" />
       <extension name="coverage">
         <pattern>
@@ -638,19 +374,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q2" />
-      <item itemvalue="Application.leetcode491" />
-      <item itemvalue="Application.leetcode90" />
-      <item itemvalue="Application.jisuanqi" />
-      <item itemvalue="Application.leetcode17" />
+      <item itemvalue="Application.Q2 (1)" />
+      <item itemvalue="Application.Q3" />
+      <item itemvalue="Application.Merge_sort" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.leetcode216" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.leetcode17" />
-        <item itemvalue="Application.jisuanqi" />
-        <item itemvalue="Application.leetcode90" />
-        <item itemvalue="Application.leetcode491" />
-        <item itemvalue="Application.Q2" />
+        <item itemvalue="Application.leetcode216" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Merge_sort" />
+        <item itemvalue="Application.Q3" />
+        <item itemvalue="Application.Q2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -816,7 +552,27 @@
       <workItem from="1597481722979" duration="2643000" />
       <workItem from="1597579710060" duration="1202000" />
       <workItem from="1597723727092" duration="10716000" />
-      <workItem from="1598233381406" duration="10407000" />
+      <workItem from="1598233381406" duration="19094000" />
+      <workItem from="1598753269762" duration="8821000" />
+      <workItem from="1598930205248" duration="1568000" />
+      <workItem from="1599012555877" duration="1656000" />
+      <workItem from="1599186781147" duration="6784000" />
+      <workItem from="1599359657545" duration="6588000" />
+      <workItem from="1599443528582" duration="3844000" />
+      <workItem from="1599649758786" duration="697000" />
+      <workItem from="1599727633971" duration="2479000" />
+      <workItem from="1599791309988" duration="844000" />
+      <workItem from="1599832771489" duration="764000" />
+      <workItem from="1600067080171" duration="643000" />
+      <workItem from="1600073131981" duration="3086000" />
+      <workItem from="1600502947532" duration="593000" />
+      <workItem from="1600609511475" duration="72000" />
+      <workItem from="1600671649565" duration="438000" />
+      <workItem from="1600677137158" duration="590000" />
+      <workItem from="1600695774555" duration="11000" />
+      <workItem from="1600852243243" duration="1049000" />
+      <workItem from="1601204199834" duration="29000" />
+      <workItem from="1605353190530" duration="720000" />
     </task>
     <task id="LOCAL-00001" summary="添加了一些注释">
       <created>1583121312310</created>
@@ -895,7 +651,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594903573459</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="8.26">
+      <created>1598450501438</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598450501438</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -931,14 +694,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="462217000" />
+    <option name="totallyTimeSpent" value="512180000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="199" y="50" width="1588" height="915" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7769376" visible="true" weight="0.19316968" />
-      <window_info id="Structure" order="1" sideWeight="0.22306238" side_tool="true" visible="true" weight="0.19316968" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8288288" visible="true" weight="0.38138926" />
+      <window_info id="Structure" order="1" sideWeight="0.17117117" side_tool="true" visible="true" weight="0.38138926" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -946,8 +709,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.20479302" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42374727" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.291939" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36492375" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44117647" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -984,7 +747,8 @@
     <MESSAGE value="2020.3.12 15：55" />
     <MESSAGE value="2020.3.14 23：45" />
     <MESSAGE value="7.16" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.16" />
+    <MESSAGE value="8.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.26" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="26" key="#Notifications" timestamp="1583121008861">
@@ -1110,18 +874,6 @@
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/letto/offer/sort/Heap_sort.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/letto/offer/sort/Heap_sort.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai193/Q2.java</url>
           <line>26</line>
           <properties />
@@ -1168,12 +920,6 @@
           <line>23</line>
           <properties />
           <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/letto/offer/Main.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/letto/offer/leetcode/滑动窗口/newcode.java</url>
@@ -1235,6 +981,48 @@
           <properties />
           <option name="timeStamp" value="67" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/letto/offer/leetcode/leetcode150.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai204/Q2.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/letto/offer/leetcode/字节常见题/字符串/sw20.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/letto/offer/newcoder/addInList.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai205/Q1.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai205/Q2.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode216.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -1250,383 +1038,10 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/dp/leetcode139.java">
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/duoxiancheng/printabc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/dp/mianshi34.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/dp/mianshi46.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/dp/Q1_maxPresent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/newcoder/alarmClock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/newcoder/magicnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/newcoder/MatrixOverlap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/dp/Q2_selectPresent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/dp/Q3_rucksack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/mianshizhinan/dp/longyudixiacheng.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/newcoder/kgroupReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/mianshizhinan/dp/SumOfNumToChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai201/Q1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="8" selection-start-line="8" selection-end-line="48" />
-          <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai201/Q2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/JavaIO.java" />
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai201/Q3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/dp/ZERO_ONE_pack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="28" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/leetcode696.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="44" column="67" selection-start-line="44" selection-start-column="67" selection-end-line="44" selection-end-column="67" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/leetcode130.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/leetcode416.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" selection-start-line="8" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15808">
-          <caret line="659" selection-start-line="659" selection-end-line="659" />
-          <folding>
-            <element signature="e#22786#22787#0" expanded="true" />
-            <element signature="e#22821#22822#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testIO.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/newcoder/longpath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/newcoder/findwork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="1430" column="27" selection-start-line="1430" selection-start-column="27" selection-end-line="1430" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="1251" column="17" lean-forward="true" selection-start-line="1251" selection-start-column="17" selection-end-line="1251" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/回溯.java" />
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/滑动窗口/leetcode76.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1274">
-          <caret line="50" column="66" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/贪心/leetcode621.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode784.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode1079.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/leetcode347.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" selection-start-line="15" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/newcoder/aiqiyi/Q1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="8" selection-start-line="8" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/newcoder/aiqiyi/Q2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/sort/Quick_sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2288">
-          <caret line="88" selection-start-line="88" selection-end-line="106" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/newcoder/division3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/leetcode459.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/leetcode179.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" selection-start-line="7" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="479" selection-start-line="479" selection-end-line="479" />
-          <folding>
-            <element signature="e#11798#11799#0" expanded="true" />
-            <element signature="e#11833#11834#0" expanded="true" />
-            <element signature="e#12107#12108#0" expanded="true" />
-            <element signature="e#12147#12148#0" expanded="true" />
-            <element signature="e#28038#28039#0" expanded="true" />
-            <element signature="e#28083#28084#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="102" selection-start-line="102" selection-end-line="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="830" selection-start-line="830" selection-end-line="830" />
-          <folding>
-            <element signature="e#33891#33892#0" expanded="true" />
-            <element signature="e#33919#33920#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode491.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode90.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/sort/Merge_sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/jisuanqi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="37" column="10" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/JavaIO/testFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/JavaIO/testStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-156">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/回溯/leetcode17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" selection-start-line="4" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/letto/offer/duoxiancheng/几种多线程的示例/TestSemphore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-130">
-          <caret line="1" lean-forward="true" selection-start-column="13" selection-end-line="1" />
+        <state relative-caret-position="260">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1634,6 +1049,363 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/duoxiancheng/FairAndUnfairTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/sort/Quick_sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3380">
+          <caret line="130" column="14" selection-start-line="130" selection-start-column="14" selection-end-line="130" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai205/Q1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="12" selection-start-line="12" selection-end-line="56" selection-end-column="29" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai205/Q2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="20" selection-start-line="20" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai205/Q3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/leetcode/周赛/zhousai205/Q4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/sort/Heap_sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1014">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="975" column="19" selection-start-line="975" selection-start-column="19" selection-end-line="975" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q13_reOrderArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q22_PrintFromTopToBottom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q23_VerifySquenceOfBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q24_FindPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q25_Clone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q26_Convert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q58_isSymmetrical.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q59_Print.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q61_serialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q56_deleteDuplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q52_match.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q50_duplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q47_Sum_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q45_isContinuous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q44_ReverseSentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q43_LeftRotateString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q42_FindNumbersWithSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q11_NumberOf1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q14_FindKthToTail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q15_ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q16_Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q17_HasSubtree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q18_Mirror.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q19_printMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q20_StackContainMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q21_IsPopOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q27_Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q28_MoreThanHalfNum_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q29_GetLeastNumbers_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q30_FindGreatestSumOfSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q31_NumberOf1Between1AndN_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q32_PrintMinNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q33_GetUglyNumber_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q34_FirstNotRepeatingChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q35_InversePairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q36_FindFirstCommonNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q37_GetNumberOfK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q38_TreeDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q39_IsBalanced_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/letto/offer/Q40_FindNumsAppearOnce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="e#338#347#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
